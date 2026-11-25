@@ -1,0 +1,696 @@
+{
+  "type": "FeatureCollection",
+  "name": "survey_facilities",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 11,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Aleea Aesthetic Clinic",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.569173,
+        "longitude": 101.4416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4416,
+          0.569173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 12,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek & Praktik Dokter Gigi Mekar Farma",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.569036,
+        "longitude": 101.428071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.428071,
+          0.569036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 13,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Abdul Hady",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.569669,
+        "longitude": 101.422042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.422042,
+          0.569669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 14,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Mekar Sari",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.568949,
+        "longitude": 101.424551
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.424551,
+          0.568949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 15,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Syahdila",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.56841,
+        "longitude": 101.415733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.415733,
+          0.56841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 16,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Pratama Abdul Hady",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.569714,
+        "longitude": 101.421998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.421998,
+          0.569714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 17,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Unilak",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.569266,
+        "longitude": 101.423531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.423531,
+          0.569266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 18,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Utama Bunda Medical Centre",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.569227,
+        "longitude": 101.443164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.443164,
+          0.569227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 19,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Praktek Dokter Gigi Celi",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Praktik Dokter",
+        "isHospital": false,
+        "latitude": 0.569988,
+        "longitude": 101.44765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44765,
+          0.569988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 20,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Praktek Dokter Gigi Fitra",
+        "zoneCode": "Z1",
+        "zoneLabel": "Z1 Rumbai",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Praktik Dokter",
+        "isHospital": false,
+        "latitude": 0.567907,
+        "longitude": 101.424952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.424952,
+          0.567907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 21,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Keluarga(cabang ke-13)",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.499715,
+        "longitude": 101.458205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.458205,
+          0.499715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 22,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Kimia Farma",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.499047,
+        "longitude": 101.4542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4542,
+          0.499047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 23,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotek Mandiri Smart",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.499766,
+        "longitude": 101.456784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.456784,
+          0.499766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 24,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Apotik Asean 7",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Apotek",
+        "isHospital": false,
+        "latitude": 0.499356,
+        "longitude": 101.45778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45778,
+          0.499356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 25,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Siaga Medika",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.499405,
+        "longitude": 101.458646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.458646,
+          0.499405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 26,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RSIA Annisa",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.499346,
+        "longitude": 101.444959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.444959,
+          0.499346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 27,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Rumah Sakit Syafira Pekanbaru",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.498249,
+        "longitude": 101.45473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45473,
+          0.498249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 28,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Rumah Sakit Awal Bros Pekanbaru",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.496322,
+        "longitude": 101.456273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.456273,
+          0.496322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 29,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Kantor Kedeputian BPJS Kesehatan Wilayah II",
+        "zoneCode": "Z2",
+        "zoneLabel": "Z2 Pusat-selatan",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Instansi Kesehatan",
+        "isHospital": false,
+        "latitude": 0.501654,
+        "longitude": 101.453926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.453926,
+          0.501654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 30,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Utama Nusa Lima",
+        "zoneCode": "Z3",
+        "zoneLabel": "Z3 Pusat-utara",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.512232,
+        "longitude": 101.461199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.461199,
+          0.512232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 31,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Pekanbaru Medical Centre(rumah sakit PMC)",
+        "zoneCode": "Z3",
+        "zoneLabel": "Z3 Pusat-utara",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.50899,
+        "longitude": 101.462159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.462159,
+          0.50899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 32,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RSIA ZAINAB",
+        "zoneCode": "Z3",
+        "zoneLabel": "Z3 Pusat-utara",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.513797,
+        "longitude": 101.45475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45475,
+          0.513797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 33,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RSUD ARIFIN AHMAD PEKANBARU",
+        "zoneCode": "Z3",
+        "zoneLabel": "Z3 Pusat-utara",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.522872,
+        "longitude": 101.451386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.451386,
+          0.522872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 34,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Rumah Sakit Prof. Dr. Tabrani",
+        "zoneCode": "Z3",
+        "zoneLabel": "Z3 Pusat-utara",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.508401,
+        "longitude": 101.449874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.449874,
+          0.508401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 35,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "EKA HOSPITAL",
+        "zoneCode": "Z4",
+        "zoneLabel": "Z4 Selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.482426,
+        "longitude": 101.420006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.420006,
+          0.482426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 36,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RS SANSANI",
+        "zoneCode": "Z4",
+        "zoneLabel": "Z4 Selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.456073,
+        "longitude": 101.418897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.418897,
+          0.456073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 37,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RSIA Budhi Mulya",
+        "zoneCode": "Z4",
+        "zoneLabel": "Z4 Selatan",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.476465,
+        "longitude": 101.419063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.419063,
+          0.476465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 38,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "Klinik Pratama Pekanbaru Sehat",
+        "zoneCode": "Z5",
+        "zoneLabel": "Z5 Barat (Tampan)",
+        "facilityType": "Klinik/apotek/praktik dokter/lainnya",
+        "facilitySubType": "Klinik",
+        "isHospital": false,
+        "latitude": 0.464342,
+        "longitude": 101.401249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.401249,
+          0.464342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 39,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RUMAH SAKIT AULIA PEKANBARU",
+        "zoneCode": "Z5",
+        "zoneLabel": "Z5 Barat (Tampan)",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.463332,
+        "longitude": 101.38533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38533,
+          0.463332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surveyId": 40,
+        "layerGroup": "facilities",
+        "category": "Point (Health Facility)",
+        "name": "RUMAH SAKIT JIWA TAMPAN",
+        "zoneCode": "Z5",
+        "zoneLabel": "Z5 Barat (Tampan)",
+        "facilityType": "Rumah Sakit",
+        "facilitySubType": "Rumah Sakit",
+        "isHospital": true,
+        "latitude": 0.465457,
+        "longitude": 101.382122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.382122,
+          0.465457
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sig-faskes-pekanbaru",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WebGIS Aksesibilitas Fasilitas Kesehatan Pekanbaru (MongoDB Atlas + Express + OpenLayers)",
+  "scripts": {
+    "install:all": "npm install && npm --prefix web install",
+    "convert": "node scripts/convert-csv-to-geojson.mjs",
+    "analyze": "node scripts/generate-analysis-geojson.mjs",
+    "seed": "node scripts/seed-mongodb.mjs",
+    "server": "node server/index.js",
+    "server:dev": "node --watch server/index.js",
+    "dev": "node scripts/dev.mjs",
+    "build": "npm --prefix web run build",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0"
+  }
+}

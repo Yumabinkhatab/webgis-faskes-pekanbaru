@@ -1,0 +1,17 @@
+{
+  "name": "sig-faskes-pekanbaru-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ol": "^10.5.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
